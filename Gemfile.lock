@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    json (1.7.5)
+    nokogiri (1.5.5)
+    rack (1.4.1)
+    rack-cors (0.2.7)
+      rack
+    rack-test (0.6.1)
+      rack (>= 1.0)
+    rake (0.9.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  nokogiri
+  rack-cors
+  rack-test
+  rake
